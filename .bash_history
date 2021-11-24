@@ -274,3 +274,121 @@ docker container run -p 8080:80 -d ngnix docker login
 clear
 docker ps -a
 docker container run timer
+clear
+docker 0v
+docker -v
+docker run -p 8080:80 -d ngnix
+docker run ngnix
+docker run ubuntu
+docker run centos
+docker ps -a
+docker rm dd80
+docker ps -a
+clear
+docker run -p 8080:80 -d mysql
+docker ps -a
+docker stop 48e
+docker ps -a
+docker kill 48e
+docker rm 48e
+docker ps -a
+docker network ls
+docker ls
+docke network --help
+docker network --help
+clear
+docker network -f driver=brdge
+docker network ls -f driver=brdge
+docker network ls --format"{{.ID}}: {{.Driver}}"
+docker network ls --format "{{.ID}}: {{.Driver}}"
+docker network inspect 62b
+clear
+docker network create mynetwork
+docker network ls
+docker network inspect mynetwork
+docker ps
+docker run -d ubuntu
+docker ps 
+docker run ubuntu stop 1000
+docker run ubuntu stop1000
+docker run ngnix
+clear
+docker pull ngnux
+docker pull ngnix
+docker run mysql
+docker ps 
+docker ps -a
+docker rm 6e4 655 c88 5b68 bb5a 3c8
+docker ps -a
+sudo vi /var/lib/jenkins/config.xml
+ls
+sudo vi /var/lib/jenkins/config.xml
+cear
+clear
+git version
+git init
+mkdir gitrepo
+ld
+ls
+git log
+touch abc
+ls
+cat abc
+vi abc
+cat abc
+git status
+git add abc
+git commit abc
+git status
+git commit abc
+git commit -m
+clear
+git commit
+git add .
+git commit -m
+git commit -m "this is my first commit"
+git config --global
+clear
+git remote add origin <https://github.com/venky39/demo>
+git remote add origin <https://github.com/venky39/demo.git>
+git status
+git config
+git commit
+git config --global
+git config --list
+git config --global user.name "venky39"
+git config --global user.email "vickyvenky39@gmail.com"
+git config --list
+git commit
+git commit -m
+git commit -m "abc"
+git add abc
+git commit -m abc
+git commit -m abc "this is my first commit"
+clear
+ls
+rm -rf gitrepo
+ls
+git clone https://github.com/venky39/demo.git
+ls
+cat demo
+cd demo
+ls
+vim test
+ls
+cd
+git add test
+cd demo
+ls
+git add test
+git commit -m test
+cd
+git push origin main
+cd demo
+git push origin main
+git push origin master
+minikube start --driver=virtualbox
+docker -v
+minikube start --driver=virtualbox
+New-Item -Path 'c:\' -Name 'minikube' -ItemType Directory -Force
+Invoke-WebRequest -OutFile 'c:\minikube\minikube.exe' -Uri 'https://github.com/kubernetes/minikube/releases/latest/download/minikube-windows-amd64.exe' -UseBasicParsing

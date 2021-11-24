@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1635661281,,"wq"
+|2,0,1635662593,,"wq"
 :.!wq
 |2,0,1635656043,,".!wq"
 
@@ -27,20 +27,20 @@
 # Registers:
 
 # File marks:
-'0  1  10  ~/abc
-|4,48,1,10,1635661281,"~/abc"
-'1  46  23  /var/lib/jenkins/config.xml
-|4,49,46,23,1635656506,"/var/lib/jenkins/config.xml"
-'2  45  22  /var/lib/jenkins/config.xml
-|4,50,45,22,1635656458,"/var/lib/jenkins/config.xml"
+'0  1  19  ~/demo/test
+|4,48,1,19,1635662593,"~/demo/test"
+'1  1  10  ~/abc
+|4,49,1,10,1635661281,"~/abc"
+'2  46  23  /var/lib/jenkins/config.xml
+|4,50,46,23,1635656506,"/var/lib/jenkins/config.xml"
 '3  45  22  /var/lib/jenkins/config.xml
 |4,51,45,22,1635656458,"/var/lib/jenkins/config.xml"
 '4  45  22  /var/lib/jenkins/config.xml
-|4,52,45,22,1635656351,"/var/lib/jenkins/config.xml"
+|4,52,45,22,1635656458,"/var/lib/jenkins/config.xml"
 '5  45  22  /var/lib/jenkins/config.xml
 |4,53,45,22,1635656351,"/var/lib/jenkins/config.xml"
-'6  46  22  /var/lib/jenkins/config.xml
-|4,54,46,22,1635656299,"/var/lib/jenkins/config.xml"
+'6  45  22  /var/lib/jenkins/config.xml
+|4,54,45,22,1635656351,"/var/lib/jenkins/config.xml"
 '7  46  22  /var/lib/jenkins/config.xml
 |4,55,46,22,1635656299,"/var/lib/jenkins/config.xml"
 '8  46  22  /var/lib/jenkins/config.xml
@@ -49,12 +49,24 @@
 |4,57,46,22,1635656299,"/var/lib/jenkins/config.xml"
 
 # Jumplist (newest first):
+-'  1  19  ~/demo/test
+|4,39,1,19,1635662593,"~/demo/test"
+-'  1  10  ~/abc
+|4,39,1,10,1635661281,"~/abc"
 -'  1  10  ~/abc
 |4,39,1,10,1635661281,"~/abc"
 -'  46  23  /var/lib/jenkins/config.xml
 |4,39,46,23,1635656506,"/var/lib/jenkins/config.xml"
 -'  46  23  /var/lib/jenkins/config.xml
 |4,39,46,23,1635656506,"/var/lib/jenkins/config.xml"
+-'  46  23  /var/lib/jenkins/config.xml
+|4,39,46,23,1635656506,"/var/lib/jenkins/config.xml"
+-'  46  23  /var/lib/jenkins/config.xml
+|4,39,46,23,1635656506,"/var/lib/jenkins/config.xml"
+-'  45  22  /var/lib/jenkins/config.xml
+|4,39,45,22,1635656473,"/var/lib/jenkins/config.xml"
+-'  45  22  /var/lib/jenkins/config.xml
+|4,39,45,22,1635656473,"/var/lib/jenkins/config.xml"
 -'  45  22  /var/lib/jenkins/config.xml
 |4,39,45,22,1635656473,"/var/lib/jenkins/config.xml"
 -'  45  22  /var/lib/jenkins/config.xml
@@ -63,6 +75,14 @@
 |4,39,45,22,1635656458,"/var/lib/jenkins/config.xml"
 -'  45  22  /var/lib/jenkins/config.xml
 |4,39,45,22,1635656458,"/var/lib/jenkins/config.xml"
+-'  45  22  /var/lib/jenkins/config.xml
+|4,39,45,22,1635656458,"/var/lib/jenkins/config.xml"
+-'  45  22  /var/lib/jenkins/config.xml
+|4,39,45,22,1635656458,"/var/lib/jenkins/config.xml"
+-'  45  22  /var/lib/jenkins/config.xml
+|4,39,45,22,1635656351,"/var/lib/jenkins/config.xml"
+-'  45  22  /var/lib/jenkins/config.xml
+|4,39,45,22,1635656351,"/var/lib/jenkins/config.xml"
 -'  45  22  /var/lib/jenkins/config.xml
 |4,39,45,22,1635656351,"/var/lib/jenkins/config.xml"
 -'  45  22  /var/lib/jenkins/config.xml
@@ -75,6 +95,18 @@
 |4,39,46,22,1635656304,"/var/lib/jenkins/config.xml"
 -'  46  22  /var/lib/jenkins/config.xml
 |4,39,46,22,1635656304,"/var/lib/jenkins/config.xml"
+-'  46  22  /var/lib/jenkins/config.xml
+|4,39,46,22,1635656304,"/var/lib/jenkins/config.xml"
+-'  46  22  /var/lib/jenkins/config.xml
+|4,39,46,22,1635656304,"/var/lib/jenkins/config.xml"
+-'  46  22  /var/lib/jenkins/config.xml
+|4,39,46,22,1635656304,"/var/lib/jenkins/config.xml"
+-'  46  22  /var/lib/jenkins/config.xml
+|4,39,46,22,1635656304,"/var/lib/jenkins/config.xml"
+-'  46  22  /var/lib/jenkins/config.xml
+|4,39,46,22,1635656299,"/var/lib/jenkins/config.xml"
+-'  46  22  /var/lib/jenkins/config.xml
+|4,39,46,22,1635656299,"/var/lib/jenkins/config.xml"
 -'  46  22  /var/lib/jenkins/config.xml
 |4,39,46,22,1635656299,"/var/lib/jenkins/config.xml"
 -'  46  22  /var/lib/jenkins/config.xml
@@ -95,6 +127,26 @@
 |4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
 -'  29  4  /var/lib/jenkins/config.xml
 |4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656259,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656217,"/var/lib/jenkins/config.xml"
+-'  29  4  /var/lib/jenkins/config.xml
+|4,39,29,4,1635656217,"/var/lib/jenkins/config.xml"
 -'  29  4  /var/lib/jenkins/config.xml
 |4,39,29,4,1635656217,"/var/lib/jenkins/config.xml"
 -'  29  4  /var/lib/jenkins/config.xml
@@ -119,6 +171,30 @@
 |4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
 -'  1  0  /var/lib/jenkins/config.xml
 |4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656173,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656169,"/var/lib/jenkins/config.xml"
+-'  1  0  /var/lib/jenkins/config.xml
+|4,39,1,0,1635656169,"/var/lib/jenkins/config.xml"
 -'  1  0  /var/lib/jenkins/config.xml
 |4,39,1,0,1635656169,"/var/lib/jenkins/config.xml"
 -'  1  0  /var/lib/jenkins/config.xml
@@ -147,36 +223,41 @@
 |4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
 -'  8  0  /var/lib/jenkins/config.xml
 |4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
+-'  8  0  /var/lib/jenkins/config.xml
+|4,39,8,0,1635656099,"/var/lib/jenkins/config.xml"
 -'  7  0  /var/lib/jenkins/config.xml
 |4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  7  0  /var/lib/jenkins/config.xml
-|4,39,7,0,1635656073,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1635655994,"/var/lib/jenkins/config.xml"
--'  1  0  /var/lib/jenkins/config.xml
-|4,39,1,0,1635655994,"/var/lib/jenkins/config.xml"
 
 # History of marks within files (newest to oldest):
+
+> ~/demo/test
+	*	1635662591	0
+	"	1	19
+	^	1	20
+	.	1	20
+	+	1	20
 
 > ~/abc
 	*	1635661278	0
